@@ -71,7 +71,7 @@ Generating high fidelity human video with specified identities has attracted sig
     <td width=25% style="border: none; text-align: center">Output Video</td>
     </tr>
     <tr>
-    <td width=25% style="border: none"><img src="./__assets__/ref/hinton.png" style="width:100%"></td>
+    <td width=25% style="border: none"><img src="./__assets__/ref/Hinton.png" style="width:100%"></td>
     <td width=25% style="border: none"><img src="./__assets__/second/hinton/2.gif" style="width:100%"></td>
     <td width=25% style="border: none"><img src="./__assets__/second/hinton/3.gif" style="width:100%"></td>
     <td width=25% style="border: none"><img src="./__assets__/second/hinton/6.gif" style="width:100%"></td>
@@ -85,7 +85,7 @@ Generating high fidelity human video with specified identities has attracted sig
     <td width=25% style="border: none; text-align: center">Output Video</td>
     </tr>
     <tr>
-    <td width=25% style="border: none"><img src="./__assets__/ref/taylor.png" style="width:100%"></td>
+    <td width=25% style="border: none"><img src="./__assets__/ref/Taylor.png" style="width:100%"></td>
     <td width=25% style="border: none"><img src="./__assets__/second/taylor/4.gif" style="width:100%"></td>
     <td width=25% style="border: none"><img src="./__assets__/second/taylor/5.gif" style="width:100%"></td>
     <td width=25% style="border: none"><img src="./__assets__/second/taylor/6.gif" style="width:100%"></td>
