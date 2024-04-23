@@ -1,4 +1,4 @@
-# AnimateDiff
+# ID-Animator
 
 This repository is the official implementation of [ID-Animator](https://id-animator.github.io/).
 It is a Zero-shot ID-Preserving Human Video Generation framework. It can generate high-quality ID-specific human video with only one ID image as reference.
