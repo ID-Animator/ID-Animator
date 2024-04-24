@@ -17,7 +17,7 @@ Man Zhou,
 Jie Zhang*
 (*Corresponding Author)
 
-[![arXiv](https://img.shields.io/badge/arXiv-2307.04725-b31b1b.svg)](https://arxiv.org/abs/2404.15275)
+[![arXiv](https://img.shields.io/badge/arXiv-2404.15275-b31b1b.svg)](https://arxiv.org/abs/2404.15275)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://id-animator.github.io/)
 
 ## Next
